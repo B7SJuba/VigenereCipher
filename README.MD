@@ -1,6 +1,6 @@
-# Vigenère Cipher in C++
+# VigenÃ¨re Cipher in C++
 
-This project implements the Vigenère Cipher in C++. The Vigenère Cipher is a method of encrypting alphabetic text using a simple form of polyalphabetic substitution. It uses a keyword to shift each letter of the plaintext to create the ciphertext.
+This project implements the VigenÃ¨re Cipher in C++. The VigenÃ¨re Cipher is a method of encrypting alphabetic text using a simple form of polyalphabetic substitution. It uses a keyword to shift each letter of the plaintext to create the ciphertext.
 
 ## Features
 
@@ -13,7 +13,7 @@ This project implements the Vigenère Cipher in C++. The Vigenère Cipher is a met
 
 ```
 *******************************************
-************** Vigenère Cipher **************
+************** VigenÃ¨re Cipher ************
 *******************************************
 
 Enter 1 for encryption, 2 for decryption (0 to exit): 1
